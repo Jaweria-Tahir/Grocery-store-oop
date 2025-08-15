@@ -21,6 +21,7 @@ Java (OOP concepts)
 Console-based Java Application
 
 **Usage**
+
 Open the project in any Java IDE (e.g., Eclipse, IntelliJ IDEA, NetBeans).
 
 Compile and run the Main.java file to start the application.
